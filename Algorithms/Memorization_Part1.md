@@ -38,7 +38,7 @@ the worst case. So we would ideally use randomized quick sort.
 .
 ```
 **Notations**
-1. Θ Notation. This is 0 <= c1g(n) <= f(n) <= c2g(n). Then it's Θ(g(n)). And this is a tight bound, both upper and lower. 
-2. O Notation. This is 0 <= f(n) <= cg(n). Then it's O(g(n)). And this is an upper bound only. 
-3. Ω Notation. This is 0 <= cg(n) <= f(n). Then it's Ω(g(n)). And this is lower bound only. 
+1. Θ Notation. Big Theta. This is 0 <= c1g(n) <= f(n) <= c2g(n). Then it's Θ(g(n)). And this is a tight bound, both upper and lower. 
+2. O Notation. Big Oh.    This is 0 <= f(n) <= cg(n). Then it's O(g(n)). And this is an upper bound only. 
+3. Ω Notation. Big Omega. This is 0 <= cg(n) <= f(n). Then it's Ω(g(n)). And this is lower bound only. 
 ```
